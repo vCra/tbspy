@@ -2,7 +2,7 @@ from tkinter import *
 
 
 '''
-I dint do non of dis shit
+The following is not my work
 http://code.activestate.com/recipes/52266-multilistbox-tkinter-widget/
 '''
 
